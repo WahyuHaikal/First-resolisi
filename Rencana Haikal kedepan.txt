@@ -1,0 +1,4 @@
+Rencana Haikal
+-Belajar JavaSctript
+-Belajar React.Js
+-Full Stack Develop

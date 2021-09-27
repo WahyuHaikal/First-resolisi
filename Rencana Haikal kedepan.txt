@@ -6,3 +6,4 @@ Rencana Haikal
 -Full Stack Develop
 -Belajar UI
 -belajar back end
+-framework

@@ -5,3 +5,5 @@ Rencana Haikal
 *Bikin Web
 -Full Stack Develop
 -Belajar UI
+-belajar back end
+-framework

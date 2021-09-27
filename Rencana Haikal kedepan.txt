@@ -1,0 +1,6 @@
+Rencana Haikal
+-Belajar JavaSctript
+ *Melatih Logic
+-Belajar React.Js
+*Bikin Web
+-Full Stack Develop
